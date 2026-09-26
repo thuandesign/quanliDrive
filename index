@@ -193,7 +193,7 @@
   <!-- IFRAME ỨNG DỤNG -->
   <iframe 
     id="app-iframe"
-    src="https://script.google.com/macros/s/AKfycbzGFdsL8Amyf58JQ6JOpNfwdBBsJ9_aiB8Qll-SCUesP5_lmyhPjteWiELx0GGPKzmW/exec" 
+    src="AKfycbzGFdsL8Amyf58JQ6JOpNfwdBBsJ9_aiB8Qll-SCUesP5_lmyhPjteWiELx0GGPKzmW" 
     allow="fullscreen"
     loading="eager"
     onload="hideLoader()">
